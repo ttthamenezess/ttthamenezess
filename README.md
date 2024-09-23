@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @ttthamenezess
-- 👀 I’m interested in promoting gender equality and creating a more inclusive world.
-- 🌱 I’m currently learning web development and improving my English skills.
-- 💞️ I’m looking to collaborate on projects related to women's empowerment and advocacy.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love drink coffee all day
+[![LinkInd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-menezes-19123023b/)
